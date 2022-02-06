@@ -1,0 +1,21 @@
+.login-general{
+    position: relative;
+    height: 100vh;
+    background-image: url('../../../public/images/background_picture.jpeg');
+    background-color: bisque;
+}
+
+.login-form__background{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 80px;
+
+    position: absolute;
+    width: 610px;
+    left: 0px;
+    top: 0px;
+    bottom: 0px;
+
+}
