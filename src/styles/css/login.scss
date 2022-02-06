@@ -1,8 +1,8 @@
 .login-general{
     position: relative;
     height: 100vh;
-    background-image: url('../../../public/images/background_picture.jpeg');
-    background-color: bisque;
+    background-image: url('https://cdn.pixabay.com/photo/2016/11/23/14/45/coding-1853305_960_720.jpg');
+    background-size: cover;
 }
 
 .login-form__background{
@@ -17,5 +17,6 @@
     left: 0px;
     top: 0px;
     bottom: 0px;
+    background-color: #F8F8F9;
 
 }

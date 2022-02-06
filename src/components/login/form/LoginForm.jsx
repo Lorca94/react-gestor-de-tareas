@@ -2,7 +2,11 @@ import React from 'react';
 
 const Loginform = () => {
       return (
-        <div />
+        <div className="login-form__background">
+          <h3>
+            OpenBootcamp
+          </h3>
+        </div>
     );
 };
 
